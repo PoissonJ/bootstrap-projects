@@ -10,4 +10,4 @@
 
 ## Contact
 
-![Alt text](about.png?raw=true)
+![Alt text](contact.png?raw=true)
